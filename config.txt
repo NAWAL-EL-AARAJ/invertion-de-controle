@@ -1,0 +1,2 @@
+net.nawal.ext.DaoImplV2
+net.nawal.metier.MetierImpl

@@ -1,4 +1,4 @@
-package net.nawal.net.nawal.ext;
+package net.nawal.ext;
 
 import net.nawal.dao.IDao;
 

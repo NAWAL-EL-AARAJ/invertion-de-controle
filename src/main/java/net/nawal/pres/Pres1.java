@@ -1,8 +1,8 @@
 package net.nawal.pres;
 
 import net.nawal.dao.DaoImpl;
+import net.nawal.ext.DaoImplV2;
 import net.nawal.metier.MetierImpl;
-import net.nawal.net.nawal.ext.DaoImplV2;
 
 public class Pres1 {
     static void main() {
